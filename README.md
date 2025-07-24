@@ -1,7 +1,6 @@
 # Investor-Demographic-Insights-Dashboard
 
-📊 Investors Demographic Insights Dashboard 🚀
-Welcome to your one-stop visual tour of investor behavior! 🕵️‍♂️💰
+## Welcome to your one-stop visual tour of investor behavior! 🕵️‍♂️💰
 
 This Power BI dashboard dives deep into the who, where, and how of the retail investing world - helping you explore patterns across age groups, income brackets, regions, and more! Think of it as an interactive cheat sheet for understanding what makes different investors tick. 🧠✨
 
