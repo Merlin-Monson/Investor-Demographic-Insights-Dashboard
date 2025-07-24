@@ -19,5 +19,7 @@ Startups & financial platforms wanting to know their users
 Students learning how data turns into storytelling
 
 Built with Power BI, sprinkled with curiosity, and served with a side of fun! 🍿
+
+
 <img width="527" height="296" alt="image" src="https://github.com/user-attachments/assets/22898363-eb17-4557-8352-a2b228cbf769" />
 
