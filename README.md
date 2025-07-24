@@ -4,14 +4,14 @@
 
 This Power BI dashboard dives deep into the who, where, and how of the retail investing world - helping you explore patterns across age groups, income brackets, regions, and more! Think of it as an interactive cheat sheet for understanding what makes different investors tick. 🧠✨
 
-🔍 What’s Inside?
+### 🔍 What’s Inside?
 📈 Sleek visualizations of investor demographics
 
 💸 Investment patterns by income & age
 
 🧩 Insights that could help shape marketing or product strategies
 
-🎯 Use Cases
+### 🎯 Use Cases
 Aspiring analysts flexing their dashboard muscles 💪
 
 Startups & financial platforms wanting to know their users
